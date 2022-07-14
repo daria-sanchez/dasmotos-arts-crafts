@@ -5,4 +5,33 @@ h1 {
     color: khaki;
     text-align: center;
     background-image: url("images/pattern.jpeg");
+
+}
+
+h2 {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+h4 {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+
+}
+
+.brushes h4 {
+    background-color: mediumspringgreen;
+
+}
+
+.frames h4 {
+    background-color: lightcoral;
+}
+
+.paint h4 {
+    background-color: skyblue;
 }
