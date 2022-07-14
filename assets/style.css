@@ -23,6 +23,22 @@ h4 {
 
 }
 
+h5 {
+    margin: 18.72px 0;
+    font-family: Helvetica;
+    font-size: 18.72px;
+    font-weight: 700;
+}
+
+p {
+    font-family: Helvetica;
+}
+
+p span {
+    font-weight: 700;
+    color: blue;
+}
+
 .brushes h4 {
     background-color: mediumspringgreen;
 
